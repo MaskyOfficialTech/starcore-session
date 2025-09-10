@@ -56,13 +56,13 @@ router.get('/', async (req, res) => {
 					let data = fs.readFileSync(__dirname + `/temp/${id}/creds.json`);
 					await delay(800);
 				   let b64data = Buffer.from(data).toString('base64');
-				   let session = await Qr_Code_By_Malvin_Tech.sendMessage(Qr_Code_By_Malvin_Tech.user.id, { text: 'starcore~' + b64data });
+				   let session = await Qr_Code_By_Malvin_Tech.sendMessage(Qr_Code_By_Malvin_Tech.user.id, { text: 'masky~' + b64data });
 	
 				   let STAR_MD_TEXT = `
 ╭─═━⌬━═─⊹⊱✦⊰⊹─═━⌬━═─ 
 ╎   『 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 』   
-╎  ✦ sᴛᴀʀᴄᴏʀᴇ sᴇssɪᴏɴ
-╎  ✦  ʙʏ ᴅᴇᴠ ᴍᴀʟᴠɪɴ
+╎  ✦ ᴍᴀsᴋʏ xᴅ sᴇssɪᴏɴ
+╎  ✦  ʙʏ ᴍᴀsᴋʏ ᴏғғɪᴄɪᴀʟ ᴛᴇᴄʜ
 ╰╴╴╴╴
 
 ▌   『 🔐 𝐒𝐄𝐋𝐄𝐂𝐓𝐄𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 』   
@@ -71,16 +71,16 @@ router.get('/', async (req, res) => {
 
 ╔═
 ╟   『 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 & 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 』  
-╟  🎥 𝐘𝐨𝐮𝐓𝐮𝐛𝐞: youtube.com/@malvintech2  
-╟  👑 𝐎𝐰𝐧𝐞𝐫: 263714757857  
-╟  💻 𝐑𝐞𝐩𝐨: github.com/XdKing2/Star-xd  
-╟  💻 𝐑𝐞𝐩𝐨: github.com/XdKing2/MALVIN-XD 
-╟  👥 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: https://chat.whatsapp.com/Dx7HbtW7Cf12iCVjJBpD0x?mode=ac_t 
-╟  📢 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S 
-╟  📸 𝐈𝐧𝐬𝐭𝐚: instagram.com/techlord01  
+╟  🎥 𝐘𝐨𝐮𝐓𝐮𝐛𝐞: youtube.com/@Masky_Official_Tech  
+╟  👑 𝐎𝐰𝐧𝐞𝐫: 2348074548225
+╟  💻 𝐑𝐞𝐩𝐨: github.com/MaskyOfficialTech/MASKY-XD_V3
+╟  💻 𝐅𝐨𝐫𝐤: github.com/XdKing2/MaskyOfficialTech/MASKY-XD_V3/fork  
+╟  👥 𝐖𝐚𝐆𝐫𝐨𝐮𝐩:
+╟  📢 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VbBaL3BIN9iutL3i200Z
+╟  📸 𝐓𝐢𝐤𝐭𝐨𝐤: tiktok.com/@masky_official_tech
 ╰  
 ✦⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅✦  
-   𝐄𝐍𝐉𝐎𝐘 𝐒𝐓𝐀𝐑-𝐗𝐃!  
+   𝐄𝐍𝐉𝐎𝐘 𝐌𝐀𝐒𝐊𝐘-𝐗𝐃!  
 ✦⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅✦  
 ______________________________
 ★彡[ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ sᴛᴀʀ ᴛʜᴇ ʀᴇᴘᴏ!]彡★`;
