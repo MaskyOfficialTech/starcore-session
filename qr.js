@@ -74,7 +74,7 @@ router.get('/', async (req, res) => {
 ╟  🎥 𝐘𝐨𝐮𝐓𝐮𝐛𝐞: youtube.com/@Masky_Official_Tech  
 ╟  👑 𝐎𝐰𝐧𝐞𝐫: 2348074548225
 ╟  💻 𝐑𝐞𝐩𝐨: github.com/MaskyOfficialTech/MASKY-XD_V3
-╟  💻 𝐅𝐨𝐫𝐤: github.com/XdKing2/MaskyOfficialTech/MASKY-XD_V3/fork  
+╟  💻 𝐅𝐨𝐫𝐤: github.com/MaskyOfficialTech/MASKY-XD_V3/fork  
 ╟  👥 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: https://chat.whatsapp.com/BslkbKuarbDAOlldqtCRLG?mode=ems_copy_t
 ╟  📢 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VbBaL3BIN9iutL3i200Z
 ╟  📸 𝐓𝐢𝐤𝐭𝐨𝐤: tiktok.com/@masky_official_tech
