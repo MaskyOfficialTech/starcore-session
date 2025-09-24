@@ -55,32 +55,21 @@ router.get('/', async (req, res) => {
                     let session = await Pair_Code_By_Malvin_Tech.sendMessage(Pair_Code_By_Malvin_Tech.user.id, { text: 'masky~' + b64data });
 
                     let Star_MD_TEXT = `
-
-╭─═━⌬━═─⊹⊱✦⊰⊹─═━⌬━═─ 
-╎   『 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 』   
-╎  ✦ ᴍᴀsᴋʏ xᴅ sᴇssɪᴏɴ
-╎  ✦  ʙʏ ᴍᴀsᴋʏ ᴏғғɪᴄɪᴀʟ ᴛᴇᴄʜ
-╰╴╴╴╴
-
-▌   『 🔐 𝐒𝐄𝐋𝐄𝐂𝐓𝐄𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 』   
-▌  • Session ID:  
-▌  ⛔ [ Please set your SESSION_ID ] 
-
-╔═
-╟   『 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 & 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 』  
-╟  🎥 𝐘𝐨𝐮𝐓𝐮𝐛𝐞: youtube.com/@Masky_Official_Tech  
-╟  👑 𝐎𝐰𝐧𝐞𝐫: 2348074548225
-╟  💻 𝐑𝐞𝐩𝐨: github.com/MaskyOfficialTech/MASKY-XD_V3
-╟  💻 𝐅𝐨𝐫𝐤: github.com/MaskyOfficialTech/MASKY-XD_V3/fork  
-╟  👥 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: https://chat.whatsapp.com/BslkbKuarbDAOlldqtCRLG?mode=ems_copy_t
-╟  📢 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VbBaL3BIN9iutL3i200Z
-╟  📸 𝐓𝐢𝐤𝐭𝐨𝐤: tiktok.com/@masky_official_tech
-╟  📺 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥: https://youtu.be/udiXFKPw3NE
-╰  
-✦⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅✦  
-   𝐄𝐍𝐉𝐎𝐘 𝐌𝐀𝐒𝐊𝐘-𝐗𝐃!  
-✦⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅✦  
-______________________________
+╭─『 𝐌𝐀𝐒𝐊𝐘 𝐁𝐎𝐓 』─╮
+│ ✅ SESSION ID is Connected Successfully!
+│ ✨ Copy your SESSION ID and continue
+│
+│ 🚀 Deploy Options:
+│    • Heroku
+│    • Render → Free Web Service
+│    • Other Panels → Any VPS / Subdomain
+Like bot hosting net and katabump 
+│
+│ 🎥 Tutorial & Updates: https://youtube.com/@Masky_Official_Tech
+│ 🔔 Please SUBSCRIBE & watch this video for guidance: https://youtu.be/udiXFKPw3NE
+│ 💻 Repo Fork: https://github.com/MaskyOfficialTech/MASKY-XD_V3/fork
+│ 🚚 source: 
+╰──────────────────────╯
 ★彡[ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ sᴛᴀʀ ᴛʜᴇ ʀᴇᴘᴏ!]彡★
 `;
 
